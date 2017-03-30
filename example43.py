@@ -1,5 +1,9 @@
 #!/usr/bin/python3
 
+'''
+ example 043
+'''
+
 class Num:
     nNum = 1
     def inc(self):
