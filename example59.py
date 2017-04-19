@@ -16,7 +16,7 @@ if __name__ == '__main__':
     root.resizable(False, False);
     root['width'] = width
     root['height'] = height
-    canvas = Canvas(width=width, height=height, bg='#F40002 ')  # china red = FAF408 , star yellow =  FAF408
+    canvas = Canvas(width=width, height=height, bg='#F40002 ')  # china red = F40002 , star yellow =  FAF408
     canvas.pack(expand=NO, fill=BOTH)
     width_half = width / 2
     height_half = height / 2
